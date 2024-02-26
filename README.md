@@ -1,2 +1,2 @@
 # Blackmouse
-Tea.Comunity
+Tea.Community
